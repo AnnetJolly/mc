@@ -311,7 +311,7 @@ require (
 )
 
 replace (
-	aead.dev/minisign => aead.dev/minisign v0.3.0
+	aead.dev/minisign => aead.dev/minisign v0.3.1-0.20250129222710-9f654db246ca
 	github.com/coreos/go-semver => github.com/coreos/go-semver v0.3.1
 	github.com/gogo/protobuf => github.com/gogo/protobuf v1.3.2
 	github.com/lestrrat-go/jwx/v2 => github.com/lestrrat-go/jwx/v2 v2.1.6
