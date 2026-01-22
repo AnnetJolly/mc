@@ -45,9 +45,9 @@ require (
 	github.com/tidwall/gjson v1.18.0
 	github.com/vbauerster/mpb/v8 v8.9.3
 	golang.org/x/net v0.48.0
-	golang.org/x/sys v0.39.0
-	golang.org/x/term v0.38.0
-	golang.org/x/text v0.32.0
+	golang.org/x/sys v0.40.0
+	golang.org/x/term v0.39.0
+	golang.org/x/text v0.33.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/yaml.v2 v2.4.0
 )
@@ -292,7 +292,7 @@ require (
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.1 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
-	golang.org/x/crypto v0.46.0 // indirect
+	golang.org/x/crypto v0.47.0 // indirect
 	golang.org/x/exp/typeparams v0.0.0-20250911091902-df9299821621 // indirect
 	golang.org/x/mod v0.30.0 // indirect
 	golang.org/x/sync v0.19.0 // indirect
@@ -324,7 +324,7 @@ replace (
 	go.etcd.io/etcd/api/v3 => go.etcd.io/etcd/api/v3 v3.6.6
 	go.etcd.io/etcd/client/v3 => go.etcd.io/etcd/client/v3 v3.6.6
 	golang.org/x/crypto => golang.org/x/crypto v0.45.0
-	golang.org/x/net => golang.org/x/net v0.47.0
+	golang.org/x/net => golang.org/x/net v0.49.0
 	golang.org/x/text => golang.org/x/text v0.31.0
 	google.golang.org/grpc => google.golang.org/grpc v1.77.0
 	google.golang.org/protobuf => google.golang.org/protobuf v1.36.10
