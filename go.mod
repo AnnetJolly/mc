@@ -322,6 +322,6 @@ replace (
 	go.etcd.io/etcd/api/v3 => go.etcd.io/etcd/api/v3 v3.6.6
 	go.etcd.io/etcd/client/v3 => go.etcd.io/etcd/client/v3 v3.6.6
 	golang.org/x/crypto => golang.org/x/crypto v0.45.0
-	golang.org/x/net => golang.org/x/net v0.46.0
+	golang.org/x/net => golang.org/x/net v0.47.0
 	golang.org/x/text => golang.org/x/text v0.30.0
 )
