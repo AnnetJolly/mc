@@ -318,10 +318,16 @@ replace (
 	github.com/minio/cli => github.com/minio/cli v1.24.2
 	github.com/minio/madmin-go/v3 => github.com/minio/madmin-go/v3 v3.0.107-0.20250415152934-4b504b82db63
 	github.com/minio/minio-go/v7 => github.com/minio/minio-go/v7 v7.0.97
+	github.com/minio/selfupdate => github.com/minio/selfupdate v0.6.0
+	github.com/prometheus/client_golang => github.com/prometheus/client_golang v1.21.1
+	github.com/prometheus/common => github.com/prometheus/common v0.63.0
+	github.com/prometheus/prometheus => github.com/prometheus/prometheus v0.303.0
 	github.com/secure-io/sio-go => github.com/secure-io/sio-go v0.3.1
 	go.etcd.io/etcd/api/v3 => go.etcd.io/etcd/api/v3 v3.6.6
 	go.etcd.io/etcd/client/v3 => go.etcd.io/etcd/client/v3 v3.6.6
 	golang.org/x/crypto => golang.org/x/crypto v0.45.0
 	golang.org/x/net => golang.org/x/net v0.47.0
-	golang.org/x/text => golang.org/x/text v0.30.0
+	golang.org/x/text => golang.org/x/text v0.31.0
+	google.golang.org/grpc => google.golang.org/grpc v1.77.0
+	google.golang.org/protobuf => google.golang.org/protobuf v1.36.10
 )
