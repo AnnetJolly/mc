@@ -318,7 +318,7 @@ replace (
 	github.com/minio/cli => github.com/minio/cli v1.24.2
 	github.com/minio/madmin-go/v3 => github.com/minio/madmin-go/v3 v3.0.107-0.20250415152934-4b504b82db63
 	github.com/minio/minio-go/v7 => github.com/minio/minio-go/v7 v7.0.97
-	github.com/minio/selfupdate => github.com/minio/selfupdate v0.6.0
+	github.com/minio/selfupdate => github.com/minio/selfupdate v0.6.1-0.20251021171908-5b54254443f7
 	github.com/prometheus/client_golang => github.com/prometheus/client_golang v1.21.1
 	github.com/prometheus/common => github.com/prometheus/common v0.63.0
 	github.com/prometheus/prometheus => github.com/prometheus/prometheus v0.303.0
